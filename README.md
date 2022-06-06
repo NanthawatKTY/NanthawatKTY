@@ -3,7 +3,7 @@
 - 👯 Interest in software engineer.
 
 ### Dev & Tools
-![alt text](FaReact)
+![alt text](https://www.iconspng.com/images/react-logo-icon.jpg)
 
 ### 💖 Get in touch
 FB: 
