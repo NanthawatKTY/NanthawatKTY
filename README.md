@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🌱 I’m currently learning MERN Stack.
+- 👯 Interest in software engineer.
+
+### Dev & Tools
+![alt text](FaReact)
+
+### 💖 Get in touch
+FB: 
 
 <!--
 **NanthawatKTY/NanthawatKTY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
