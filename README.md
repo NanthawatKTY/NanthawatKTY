@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning MERN Stack.
-- 👯 Interest in software engineer.
+- 👯 Interest in Software engineer and everything.
 
 ### 💖 Get in touch:
 
